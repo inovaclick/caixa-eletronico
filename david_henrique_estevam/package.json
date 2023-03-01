@@ -1,0 +1,12 @@
+{
+  "name": "david_henrique_estevam",
+  "version": "1.0.0",
+  "description": "Calculadora do menos número de cédulas de Real para um valor dado",
+  "main": "caixaeletronico.js",
+  "scripts": {
+	"start": "node caixaeletronico.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Henrique Estevam",
+  "license": "ISC"
+}
